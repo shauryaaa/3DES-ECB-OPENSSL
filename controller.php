@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Raihan
- * Date: 10-Jul-17
- * Time: 3:50 AM
- */
+
 
 require_once 'Crypt_mcrypt.php';
 require_once 'Crypt_openssl.php';
