@@ -1,4 +1,10 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: Raihan
+ * Date: 10-Jul-17
+ * Time: 12:48 AM
+ */
 
 class CryptMcrypt{
     private $hash;
